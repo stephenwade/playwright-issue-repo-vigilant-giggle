@@ -1,13 +1,5 @@
 .DS_Store
-
 node_modules/
-npm-debug.log
-
-.cache/
-build/
-
-# runtime
-upload
-/test-results/
-/playwright-report/
-/playwright/.cache/
+test-results/
+playwright-report/
+.cache
